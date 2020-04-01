@@ -11,10 +11,12 @@ The code for this paper will be uploaded soon.
 }
 ```
 
+## Model 
+![Model](https://github.com/arsalhuda24/SSeg-LSTM/blob/master/model.png)
+
 
 ## Seg-Net Results on pedestrain dataset 
-
 ![Seg-Net](https://github.com/arsalhuda24/SSeg-LSTM/blob/master/segmentation.png)
 
-## Model 
+
 
