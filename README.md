@@ -1,5 +1,6 @@
 # SSeg-LSTM
 Semantic Scene Segmentation for Trajectory Prediction
+The code for this paper will be uploaded soon.
 ```
 @published{Syed2019SSeg-Lstm,
     title        = {{SSeg-LSTM: Semantic Scene Segmentation for Trajectory Prediction}},
@@ -14,3 +15,6 @@ Semantic Scene Segmentation for Trajectory Prediction
 ## Seg-Net Results on pedestrain dataset 
 
 ![Seg-Net](https://github.com/arsalhuda24/SSeg-LSTM/blob/master/segmentation.png)
+
+## Model 
+
