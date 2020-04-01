@@ -1,5 +1,5 @@
 # SSeg-LSTM
-Semantic Scene Segmentation for Trajectory Prediction
+Semantic Scene Segmentation for Trajectory Prediction.
 The code for this paper will be uploaded soon.
 ```
 @published{Syed2019SSeg-Lstm,
