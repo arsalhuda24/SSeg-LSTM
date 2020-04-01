@@ -18,5 +18,5 @@ The code for this paper will be uploaded soon.
 ## Seg-Net Results on pedestrain dataset 
 ![Seg-Net](https://github.com/arsalhuda24/SSeg-LSTM/blob/master/segmentation.png)
 
-
-
+## SSeg-LSTM results on pedestrain trajectories
+![Trajectory](https://github.com/arsalhuda24/SSeg-LSTM/blob/master/results.png)
