@@ -1,7 +1,6 @@
 # SSeg-LSTM
 Semantic Scene Segmentation for Trajectory Prediction
-
-@misc{lia_corrales_2015_15991,
+```@misc{lia_corrales_2015_15991,
     author       = {Lia Corrales},
     title        = {{dust: Calculate the intensity of dust scattering halos in the X-ray}},
     month        = mar,
@@ -11,7 +10,7 @@ Semantic Scene Segmentation for Trajectory Prediction
     publisher    = {Zenodo},
     url          = {https://doi.org/10.5281/zenodo.15991}
     }
-
+```
 
 
 ## Seg-Net Results on pedestrain dataset 
