@@ -12,7 +12,7 @@ The code for this paper will be uploaded soon.
 ```
 
 ## Model 
-![Model](https://github.com/arsalhuda24/SSeg-LSTM/blob/master/model.png){:height="24px" width="48px}
+![Model](https://github.com/arsalhuda24/SSeg-LSTM/blob/master/model.png)
 
 
 ## Seg-Net Results on pedestrain dataset 
